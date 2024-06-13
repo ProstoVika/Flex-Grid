@@ -9,7 +9,7 @@ body {
 }
 
 header {
-	background-color:#336699;
+	background-color:#2e353c;
 }
 
 main {
@@ -33,11 +33,11 @@ header, footer {
 }
 
 nav {
-	background-color: orange;
+	background-color: #7894ac;
 }
 
 article {
-	background-color: white;
+	background-color: #f9fbfb;
 	padding: 10px;
 	text-align: left;
 	height: 550px;
@@ -45,11 +45,11 @@ article {
 }
 
 aside {
-	background-color:#be2596;
+	background-color:#b6ae99;
 }
 
 footer {
-	background-color: #3f902d;	
+	background-color: #1f1e1d;
 }
 
 @media all and (max-width: 600px) {
